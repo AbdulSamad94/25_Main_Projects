@@ -7,13 +7,13 @@ target = int(input("Enter your number to find in the list: "))
 # linear Seach
 
 
-if target not in arr:
-    print(f"{target} not found in list")
+# if target not in arr:
+#     print(f"{target} not found in list")
 
-for i in arr:
-    if target == i:
-        index = arr.index(i)
-        print(f"You target index is: {index}")
+# for i in arr:
+#     if target == i:
+#         index = arr.index(i)
+#         print(f"You target index is: {index}")
 
 
 # Binary Seach
