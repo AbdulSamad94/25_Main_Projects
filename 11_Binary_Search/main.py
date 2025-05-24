@@ -10,6 +10,7 @@ target = int(input("Enter your number to find in the list: "))
 # if target not in arr:
 #     print(f"{target} not found in list")
 
+
 # for i in arr:
 #     if target == i:
 #         index = arr.index(i)
